@@ -1,2 +1,19 @@
-# Mobile_practice_3
-移动梧桐鸿鹄实习实验3
+# mobile-pratice-3
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
